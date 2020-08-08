@@ -9,7 +9,7 @@ int main(){
    Fahrenheit= ((Celsius* 9.0 / 5.0) + 32.0);
    
    puts("The temprature in Fahrenheit is:");
-   printf("%.5lf",Fahrenheit);
+   printf("%.4lf",Fahrenheit);
    
    return 0;
 }
